@@ -1,0 +1,86 @@
+{"0": {
+    "doc": "Manual",
+    "title": "Manual",
+    "content": "Installation SPM page . ",
+    "url": "/installation/Manual.html",
+    "relUrl": "/installation/Manual.html"
+  },"1": {
+    "doc": "Using SPM",
+    "title": "Using SPM",
+    "content": "Installation SPM page . ",
+    "url": "/installation/UsingSPM.html",
+    "relUrl": "/installation/UsingSPM.html"
+  },"2": {
+    "doc": "Use case 4",
+    "title": "Use case 4",
+    "content": "Use case 4 index page . ",
+    "url": "/useCase4/",
+    "relUrl": "/useCase4/"
+  },"3": {
+    "doc": "Changelogs",
+    "title": "Changelogs",
+    "content": "Changelogs index page . ",
+    "url": "/changelogs/",
+    "relUrl": "/changelogs/"
+  },"4": {
+    "doc": "Use case 1",
+    "title": "Use case 1",
+    "content": "Use case 1 index page . ",
+    "url": "/useCase1/",
+    "relUrl": "/useCase1/"
+  },"5": {
+    "doc": "Use case 2",
+    "title": "Use case 2",
+    "content": "Use case 2 index page . ",
+    "url": "/useCase2/",
+    "relUrl": "/useCase2/"
+  },"6": {
+    "doc": "Installation",
+    "title": "Installation page",
+    "content": "Installation index page . ",
+    "url": "/installation/#installation-page",
+    "relUrl": "/installation/#installation-page"
+  },"7": {
+    "doc": "Installation",
+    "title": "Installation",
+    "content": " ",
+    "url": "/installation/",
+    "relUrl": "/installation/"
+  },"8": {
+    "doc": "Use case 3",
+    "title": "Use case 3",
+    "content": "Use case 3 index page . ",
+    "url": "/useCase3/",
+    "relUrl": "/useCase3/"
+  },"9": {
+    "doc": "Child of Test",
+    "title": "Child of test",
+    "content": "I am a child page. ",
+    "url": "/test-child.html#child-of-test",
+    "relUrl": "/test-child.html#child-of-test"
+  },"10": {
+    "doc": "Child of Test",
+    "title": "Child of Test",
+    "content": " ",
+    "url": "/test-child.html",
+    "relUrl": "/test-child.html"
+  },"11": {
+    "doc": "Granchild of Test",
+    "title": "I am a grand child of test",
+    "content": " ",
+    "url": "/test-grand-child.html#i-am-a-grand-child-of-test",
+    "relUrl": "/test-grand-child.html#i-am-a-grand-child-of-test"
+  },"12": {
+    "doc": "Granchild of Test",
+    "title": "Granchild of Test",
+    "content": " ",
+    "url": "/test-grand-child.html",
+    "relUrl": "/test-grand-child.html"
+  },"13": {
+    "doc": "Welcome to SDK Docs",
+    "title": "Welcome to SDK Docs",
+    "content": "## Welcome to SDK Docs 🚀 🐼 yes You can use the [editor on GitHub](https://github.com/pmarsceill/test-jtd/edit/master/README.md) to maintain and preview the content for your website in Markdown files. Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. ### Markdown Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for ```markdown Syntax highlighted code block # Header 1 ## Header 2 ### Header 3 - Bulleted - List 1. Numbered 2. List **Bold** and _Italic_ and `Code` text [Link](url) and ![Image](src) ``` For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). ### Jekyll Themes Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmarsceill/test-jtd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file. ### Support or Contact Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. ",
+    "url": "/",
+    "relUrl": "/"
+  }
+}
